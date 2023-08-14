@@ -126,6 +126,7 @@ section.container {
 .img2,
 .img3,
 .img4 { */
+
 [class^="img"] {
   background: rgb(57, 48, 182);
   height: 60vh;
